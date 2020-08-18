@@ -1,9 +1,10 @@
-theme: jekyll-theme-architect
+theme: minimal-mistakes-jekyll
 title: Casey Stull
 description: A place to follow my projects.
 
 plugins:
   - jekyll-relative-links
+  - jekyll-include-cache
 relative_links:
   enabled: true
   collections: true

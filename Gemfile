@@ -6,3 +6,6 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
 gem "jekyll"
+gem "jekyll-include-cache"
+gem "minimal-mistakes-jekyll"
+gem "jekyll-relative-links"
